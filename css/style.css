@@ -78,6 +78,7 @@ header {
 @media (min-width: 900px) {
   .pricing {
     justify-content: center;
+    align-items: center;
   }
 
   header {
